@@ -10,3 +10,21 @@
 + √ Vue 
 + × React 
 + × taro 
+
+## 安装
+```
+npm install keen-cli
+```
+
+## 用法
+```
+Usage: keen create <project-name>
+
+Options:
+  -v, --version          显示当前版本
+  -h, --help             显示帮助
+
+Commands:
+  create <project-name>  创建项目
+  help [cmd]             display help for [cmd]
+```
