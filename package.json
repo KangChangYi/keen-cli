@@ -1,6 +1,6 @@
 {
   "name": "keen-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "project-template",
   "bin": {
     "keen": "./bin/keen.js"
