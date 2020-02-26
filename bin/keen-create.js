@@ -40,7 +40,7 @@ next && go()
 
 const templateRepo = {
     Vue: 'KangChangYi/Vue2.0-project-template#master',
-    taro: '',
+    Taro: 'KangChangYi/taro-yanxuan#master',
     React: ''
 }
 
